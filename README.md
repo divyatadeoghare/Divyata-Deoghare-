@@ -21,4 +21,4 @@
 💻 Languages: JavaScript, Java, HTML, CSS.
 🧰 Frameworks & Libraries: React.js, Node.js, Express, Bootstrap, Tailwind CSS,Material UI.
 🗄️ Databases: MongoDB, MySql
-🧪 Tools: Git, GitHub, VSCode, Postman,Thunderclient, Cloudinary, Render.
+🧪 Tools: Git, GitHub, VSCode.
