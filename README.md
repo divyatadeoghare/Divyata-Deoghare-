@@ -44,7 +44,7 @@ A Full Stack Developer
 <!--       <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=svg" width="48" height="48"
           alt="SVG" /> <br>SVG</td> -->
       
-    </tr>
+  </tr>
   </table>
 </div>
 
